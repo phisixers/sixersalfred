@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 9,
+        "colorSelected" : "#FFFFFF70",
+        "font" : "Lucida Grande",
+        "color" : "#0000009E"
+      },
+      "shortcut" : {
+        "size" : 19,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Noteworthy",
+        "color" : "#15261872"
+      },
+      "backgroundSelected" : "#2C4E6CD7",
+      "text" : {
+        "size" : 14,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Courier",
+        "color" : "#000000E5"
+      },
+      "iconPaddingHorizontal" : 4,
+      "roundness" : 12,
+      "paddingVertical" : 6,
+      "iconSize" : 28
+    },
+    "search" : {
+      "backgroundSelected" : "#80735DFF",
+      "paddingHorizontal" : 8,
+      "spacing" : 8,
+      "text" : {
+        "size" : 28,
+        "colorSelected" : "#00000092",
+        "font" : "PT Mono",
+        "color" : "#033A67AD"
+      },
+      "background" : "#0000004C",
+      "roundness" : 13,
+      "paddingVertical" : 2
+    },
+    "window" : {
+      "color" : "#DCDCDCFF",
+      "paddingHorizontal" : 9,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 0,
+      "roundness" : -1,
+      "paddingVertical" : 11
+    },
+    "credit" : "Andrew",
+    "separator" : {
+      "color" : "#46758A2C",
+      "thickness" : 3
+    },
+    "scrollbar" : {
+      "color" : "#561A72FF",
+      "thickness" : 2
+    },
+    "name" : "sixers"
+  }
+}
